@@ -6,7 +6,7 @@ The dataset contains transactional data with numeric and categorical features, a
 The workflow involves data preprocessing, model training, evaluation, and temporal analysis of fraud patterns.
 
 ### Dataset:
-Credit Card Transactions Fraud Detection Dataset – (Kaggle link)  
+[Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download&select=fraudTrain.csv) – (Kaggle link)  
 I selected this dataset because it provides a realistic simulation of credit card transactions, including fraudulent and legitimate activities.
 The dataset is large and diverse (over 1.29 million transactions, 23 features), which makes it suitable for:  
 •	Fraud detection model development  
